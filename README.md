@@ -12,7 +12,7 @@
 ### Handling Missing Data
    ##### Handling the missing data either by simply deleting all entries with missing data or by choosing imputation method (replacing missing values with column’s mean/median).
 ### Speed_Up Model(Parallel Computing)
-   ##### Showing that parallel processing could improve  the speed of machine learning model.
+   ##### Showed that parallel processing could improve  the speed of machine learning model.
          
           
 
